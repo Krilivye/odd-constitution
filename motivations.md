@@ -8,7 +8,7 @@ Trop peu de développeurs cherchent à avoir une véritable carrière dans ce do
 Trop de manager voient (à juste titre) les développeurs comme des gamins immatures qu'il faut absolument encadrer. Ce désir de contrôle conforte les développeurs dans leur position d'enfants immatures devant demander l'autorisation pour tout, et n'étant responsable de rien. 
 
 
-Nous n'avons pas, en tant que développeur, à nous défendre contre les SSII, nous avons à devenir profesionnel. Nous avons une responsabilité énorme : nous faisons tourner le monde, nous ne pouvons pas nous en détourner. 
+Nous n'avons pas, en tant que développeur, à nous défendre contre les SSII (ESN), nous avons à devenir profesionnel. Nous avons une responsabilité énorme : nous faisons tourner le monde, nous ne pouvons pas nous en détourner. 
 
 ## Les autres professions
 
